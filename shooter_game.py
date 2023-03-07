@@ -1,6 +1,6 @@
 from classes import *
 
-
+### TL:DR Спагетти
 
 mixer.music.load('space.ogg')
 mixer.music.set_volume(0.05)
